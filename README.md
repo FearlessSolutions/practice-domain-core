@@ -69,6 +69,8 @@ We welcome contributions from all team members! Please review our CONTRIBUTING.m
 
 This Practice Domain is led by a team of Subject Matter Experts (SMEs), the Practice manager, and co-organizers, who can be contacted via our Slack channel or directly through GitHub. For more detailed information on our leadership structure and contact details, please refer to Contact Information.
 
+**Note: Most of this boilerplate content was outlined with ChatGPT4**
+
 ## FAQ
 
 For more information about the Practice Domains, including how to get involved, how contributions impact your performance evaluations, and how this work aligns with our billable hours policy, please see our [FAQs](https://docs.google.com/document/d/1ScMFUJ32Su99KX6-B54vfcnchA5p-D33TY-gi1jnbr4/edit#heading=h.1zhtf6oxqwx7).
